@@ -1,0 +1,28 @@
+To add a file to the staging area in Git, you use the 'git add command' followed by the file name.
+The command used to commit changes in Git is 'git commit -m "add text"'
+The command used to push changes from a local repository to a remote repository in Git is 'git push'
+The command used to pull changes from a remote repository to a local repository in Git is 'git pull'
+.The command used to discard changes in the working directory in Git depends on whether you want to discard changes for a specific file or all changes in the working directory.
+To navigate to a specific directory in the Linux terminal, you use the cd command, which stands for "change directory".
+The command used to list the contents of a directory in Linux is 'ls'.
+The command used to create a new directory (also known as a folder) in Linux is mkdir, which stands for "make directory".
+The command used to create a new file in Linux is 'touch'
+The command used to copy files in Linux is 'cp'
+The command used to copy directories in Linux is also cp, but with an additional option -r or -R, which stands for "recursive".
+In Linux, the mv command is used to both move and rename files and directories.
+In Linux, the mv command is also used to move or rename
+he command used to remove files in Linux is rm, which stands for "remove".
+The command used to remove directories in Linux is 'rmdir'.
+The find command is commonly used to search for files or directories in Linux. It allows users to search for files and directories based on various criteria such as name, type, size, and modification time.
+In Linux, the 'cat' command is often used to display the contents of a file.
+In Linux, the 'chmod' command is used to change file permissions.
+The 'pwd' command is used to display the current working directory in Linux.
+In Linux, the date command is used to display the current date and time in the terminal. When you execute the date command without any arguments, it prints the current date and time in the default format set by the system.
+
+
+
+
+
+
+
+
